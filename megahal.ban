@@ -1,6 +1,7 @@
 #
 #	This is a list of words which cannot be used as keywords
 #
+-
 .
 :
 ,
@@ -17,6 +18,7 @@ DÅ
 EN
 ENS
 FAN
+FLERA
 GÖR
 HELST
 HÄNT
@@ -27,8 +29,11 @@ KAN
 LÅNGT
 LÅTER
 NU
+OM
+RIKTIG
 RELEVANT
 VAD
 VAR
 VARA
+VILKEN
 ÄR
